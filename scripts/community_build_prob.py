@@ -18,7 +18,7 @@ import time
 try:
     max_procs = snakemake.threads
 except NameError:
-    max_procs = 16  # 手动运行时的默认并行线程数
+    max_procs = 16
 
 logger = micom.logger
 logger.setLevel(logging.ERROR)
@@ -115,6 +115,7 @@ if __name__ == "__main__":
 
    elapsed = time.time() - start
    print("\n=== All tasks finished. ===")
+
    print(f" Completed all tasks in {elapsed:.2f} seconds.")
 
 # # -------------------------
