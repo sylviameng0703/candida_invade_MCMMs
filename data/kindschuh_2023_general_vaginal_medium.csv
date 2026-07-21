@@ -1,0 +1,184 @@
+Metabolon ID,VMH ID
+(N(1) + N(8))-acetylspermidine,N1aspmd
+(R)-3-hydroxybutyrylcarnitine,3bcrn
+(S)-3-hydroxybutyrylcarnitine,3bcrn
+1-methyl-4-imidazoleacetate,3mlda
+1-methyladenine,HC02216
+1-methylhistidine,3mhis
+1-methylnicotinamide,1mncam
+13-HODE + 9-HODE,M00336
+"2,3-dihydroxyisovalerate",23dhmb
+2-aminoadipate,L2aadp
+2-hydroxybutyrate/2-hydroxyisobutyrate,2hb
+2-hydroxyglutarate,M00653
+2-methylcitrate/homocitrate,hcit
+2-oxoarginine*,5g2oxpt
+3-(4-hydroxyphenyl)lactate (HPLA),34hpl
+3-aminoisobutyrate,3aib
+3-hydroxyisobutyrate,3hmp
+3-methylhistidine,3mhis
+3-ureidopropionate,cala
+4-acetamidobutanoate,4aabutn
+4-guanidinobutanoate,4gubut
+4-hydroxybutyrate (GHB),4ohbut
+4-imidazoleacetate,im4ac
+5-methylthioadenosine (MTA),5mta
+5-oxoproline,5oxpro
+acetylcarnitine (C2),acrn
+adenine,ade
+adenosine,adn
+AMP,amp
+adipate,adpac
+alanine,ala_L
+allantoin,alltn
+alpha-ketoglutaramate*,HC00591
+alpha-ketoglutarate,akg
+alpha-tocopherol,avite1
+arabinose,arab_D
+arabitol/xylitol,xylt
+arabonate/xylonate,xylnt
+arginine,arg_L
+asparagine,asn_L
+aspartate,asp_L
+azelate (C9-DC),C08261
+beta-alanine,ala_B
+beta-hydroxyisovalerate,3hivac
+betaine,glyb
+betaine aldehyde,betald
+butyrylcarnitine (C4),c4crn
+carnitine,crn
+cholesterol sulfate,chsterols
+choline,chol
+phosphocholine,cholp
+citraconate/glutaconate,glutcon
+citrate,cit
+citrulline,citr_L
+creatine,creat
+creatinine,crtn
+cysteine,cys_L
+cysteinylglycine,cgly
+cytosine,csn
+deoxycarnitine,4tmeabutn
+diacetylspermidine*,C03413
+dihydroxyacetone phosphate (DHAP),dhap
+dimethylarginine (ADMA + SDMA),dmlarg
+dimethylglycine,dmgly
+ethylmalonate,ethmalac
+formiminoglutamate,forglu
+fructose,fru
+Isobar: hexose diphosphates,fdp
+fumarate,fum
+gluconate,glcn
+glucose,glc_D
+glucose 6-phosphate,g6p
+glucuronate,glcur
+glutamate,glu_L
+glutamine,gln_L
+glutarate (C5-DC),glutar
+glycerate,glyc_R
+glycerol 3-phosphate,glyc3p
+glycerophosphoethanolamine,M02913
+glycerophosphoglycerol,g3pg
+glycerophosphorylcholine (GPC),g3pc
+glycine,gly
+glycylleucine,glyleu
+guanidinoacetate,gudac
+guanine,gua
+guanosine,gsn
+gulonate*,guln
+hippurate,bgly
+histidine,his_L
+hypoxanthine,hxan
+imidazole propionate,4izp
+inosine,ins
+isoleucine,ile_L
+kynurenate,kynate
+kynurenine,Lkynr
+lactate,lac_L
+leucine,leu_L
+leucylglycine,leugly
+lysine,lys_L
+lyxonate,lyxnt
+malate,mal_L
+malonate,HC00319
+maltopentaose,maltpt
+maltose,malt
+maltotetraose,M02451
+maltotriose,malttr
+mannitol/sorbitol,C01507
+mannonate*,mana
+mannose,man
+methionine,met_L
+methionine sulfoxide,metsox_S_L
+myo-inositol,C00137
+N(1)-acetylspermine,N1sprm
+N-acetylaspartate (NAA),Nacasp
+N-acetylglucosamine/N-acetylgalactosamine,acgal
+N-acetylglutamate,acglu
+N-acetylisoleucine,acile_L
+N-acetylleucine,acleu_L
+N-acetylmethionine,C02712
+N-acetylneuraminate,acnam
+N-acetylputrescine,aprut
+N-formylkynurenine,Lfmkynr
+"N1,N12-diacetylspermine",C03413
+N1-Methyl-2-pyridone-5-carboxamide,M02505
+"N6,N6,N6-trimethyllysine",tmlys
+nicotinamide,ncam
+NAD+,nadp
+nicotinamide riboside,rnam
+nicotinate,nac
+o-cresol sulfate,pcs
+ornithine,orn
+orotate,orot
+p-cresol sulfate,pcs
+palmitoylcarnitine (C16),pmtcrn
+pantothenate (Vitamin B5),pnto_R
+phenethylamine,peamn
+phenylacetylglutamine,pheacgln
+phenylalanine,phe_L
+phenyllactate (PLA),plac
+phosphate,pi
+phosphoethanolamine (PE),ethamp
+phytosphingosine,M02749
+picolinate,C10164
+pimelate (C7-DC),pime
+pipecolate,Lpipecol
+proline,pro_L
+propionylcarnitine (C3),pcrn
+putrescine,ptrc
+pyridoxamine,pydam
+pyridoxate,4pyrdx
+pyruvate,pyr
+quinolinate,quln
+ribitol,rbt
+ribose,rib_D
+S-methylmethionine,mmet
+salicylate,4hbz
+sebacate (C10-DC),sebacid
+sedoheptulose,M03165
+serine,ser_L
+spermidine,spmd
+spermine,sprm
+sphinganine,sphgn
+sphingosine,sphings
+suberate (C8-DC),subeac
+succinate,succ
+sulfate*,so4
+taurine,taur
+threonate,thrnt
+threonine,thr_L
+thymine,thym
+tiglyl carnitine (C5),c51crn
+trans-urocanate,urcan
+tricarballylate,tcb
+trimethylamine N-oxide,tmao
+tryptophan,trp_L
+tyramine,tym
+tyrosine,tyr_L
+uracil,ura
+urate,urate
+urea,urea
+uridine,uri
+valine,val_L
+xanthine,xan
