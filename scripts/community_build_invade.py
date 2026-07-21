@@ -65,9 +65,9 @@ taxonomy = taxonomy.dropna(subset=["file"])
 # -------------------------
 # Load media
 # -------------------------
-media = pd.read_csv(MEDIA_FILE)
-media.index = media.reaction
-media_flux = media.flux
+medium = pd.read_csv(MEDIA_FILE)
+medium.index = medium.reaction
+media_flux = medium.flux
 
 # -------------------------
 # Model build function
