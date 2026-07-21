@@ -89,7 +89,7 @@ def build_and_save(args):
         found = media.index.isin(ex_ids).sum()
         logger.info("%d/%d import reactions found in model.", found, len(media))
 
-        com.media = media[media.index.isin(ex_ids)]
+        com.medium = media[media.index.isin(ex_ids)]
         com.to_pickle(fname)
 
         t1 = datetime.datetime.now()
