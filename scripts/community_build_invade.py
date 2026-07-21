@@ -65,9 +65,9 @@ taxonomy = taxonomy.dropna(subset=["file"])
 # -------------------------
 # Load media
 # -------------------------
-medium = pd.read_csv(MEDIA_FILE)
-medium.index = medium.reaction
-media_flux = medium.flux
+media = pd.read_csv(MEDIA_FILE)
+media.index = media.reaction
+media_flux = media.flux
 
 # -------------------------
 # Model build function
@@ -91,7 +91,7 @@ def build_and_save(args):
         found = media_flux.index.isin(ex_ids).sum()
         logger.info("%d/%d import reactions found in model.", found, len(media))
 
-        com.media = media_flux[media_flux.index.isin(ex_ids)]
+        com.medium = media_flux[media_flux.index.isin(ex_ids)]
         com.to_pickle(fname)
 
         t1 = datetime.datetime.now()
